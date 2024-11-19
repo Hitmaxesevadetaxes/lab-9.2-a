@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+C:\Users\HP\source\repos\lab 9.2\lab 9.2\source.cpp(35,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\HP\source\repos\lab 9.2\lab 9.2\source.cpp(42,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> C:\Users\HP\source\repos\lab 9.2\x64\Debug\UnitTest1.dll

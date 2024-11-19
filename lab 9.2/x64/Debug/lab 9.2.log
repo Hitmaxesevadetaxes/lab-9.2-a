@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\lab 9.2\lab 9.2\Source.cpp(16,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\HP\source\repos\lab 9.2\lab 9.2\Source.cpp(35,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\lab 9.2\lab 9.2\Source.cpp(42,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  lab 9.2.vcxproj -> C:\Users\HP\source\repos\lab 9.2\x64\Debug\lab 9.2.exe
